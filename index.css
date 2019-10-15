@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    text-align: center;
+}
+
+.inputs {
+    margin-top: 30px;
+    margin-bottom: 45px;
+}
+
+.result {
+    list-style: none;
+}
